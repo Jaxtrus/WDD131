@@ -1,0 +1,37 @@
+/* General Styles */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    line-height: 1.5; /* Increase line height for readability */
+    text-align: center; /* Center titles and main content */
+    margin: 0;
+    padding: 0;
+}  
+/* Content Box */
+.container {
+    max-width: 600px; /* Limit content width */
+    margin: 20px auto; /* Center container with top/bottom spacing */
+    padding: 20px; /* Add space inside the container */
+    text-align: left; /* Left-align paragraphs */
+}  
+/* Titles */
+h1, h2 {
+    text-transform: uppercase; /* Make titles all caps */
+    letter-spacing: 2px; /* Add spacing between letters */
+    margin-bottom: 10px; /* Space below titles */
+}  
+/* Subtitle Style */
+h2 {
+    color: #006EB6; /* Subtitle color */
+}  
+/* Paragraphs */
+p {
+    margin-bottom: 15px; /* Add space between paragraphs */
+}  
+/* Logo Image */
+.logo {
+    width: 150px; /* Resize logo */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Space below the logo */
+}
+  
